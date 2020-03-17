@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+body{
+  font-size: 18px;
+}
+h1{
+  font-size: 32px;
+}
+p{
+  color: orange;
+}
+ul,li{
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+}
+  </style>
+</head>
+<body>
+  <h1>简历</h1>
+ <ul>
+   <li>姓名: 姜维</li>
+   <li>联系方式 手机：12345679 邮箱77777777@qq.com</li>
+ </ul>
+<div>
+  <h2>项目经验：</h2>
+  <p><span>1:</span> Lorem ipsum dolor sit amet cousamus hic obcaecati?
+  </p>
+  <p><span>2:</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, voluptates!</p>
+</div>
+
+
+
+</body>
+</html>
